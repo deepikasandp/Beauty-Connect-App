@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:Zxcvbnm$123@cluster1.tmlbv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "paypalClientID": "AfZ-sS8ts9s_izXY2lz7HH8bnNxTIIsv2OSJDVyhYw1o3_NQr3pMSmFBokCyzgu7B9SkZ6EZJzvx8ESy",
+    "node_env": "production"
+}
